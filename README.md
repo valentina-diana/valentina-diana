@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @valentina-diana
-- 🔍 I love learning and discovering new things.
-- 🛠 Programming Languages: Python, Java, C#, JavaScript, HTML, CSS
-- Databases: MySQL, Microsoft SQL Server
+- 🔍 I love learning and discovering new things
+- 💻 Programming Languages: Python, Java, C#, JavaScript, HTML, CSS
+- 💾 Databases: MySQL, Microsoft SQL Server
