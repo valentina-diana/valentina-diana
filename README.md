@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @valentina-diana
+- 🔍 I love learning and discovering new things.
+🛠 **Main Technologies:**
+- **Programming Languages:** Python, Java, C#, JavaScript, HTML, CSS
+- **Databases:** MySQL, Microsoft SQL Server
